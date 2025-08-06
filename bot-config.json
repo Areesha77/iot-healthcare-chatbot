@@ -1,0 +1,15 @@
+{
+  "name": "GAO Tek Healthcare Chatbot",
+  "description": "AI-powered assistant trained on the content of https://iotforhealthcare.com/",
+  "platform": "Botpress Cloud",
+  "language": "English",
+  "personality": "Professional and informative, for healthcare professionals and customers",
+  "deployment": {
+    "embedded": true,
+    "script_url": "https://files.bpcontent.cloud/2025/08/05/15/20250805153133-ZA28IJE1.js"
+  },
+  "knowledge_base": [
+    "https://iotforhealthcare.com/"
+  ],
+  "last_updated": "2025-08-07"
+}
